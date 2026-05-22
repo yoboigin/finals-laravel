@@ -86,4 +86,3 @@ The TaskFlow application uses a **one-to-many relationship** between the `catego
 - Tristan Bugarin
 - Nicollette Lasquite
 - Mikyla Lanorio
-- Ian Salosagcol
