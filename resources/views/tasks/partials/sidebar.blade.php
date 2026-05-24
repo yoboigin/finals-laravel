@@ -2,7 +2,7 @@
     <div class="h-16 flex items-center px-6 border-b border-slate-200">
         <div class="flex items-center gap-2 text-indigo-600">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <span class="text-xl font-bold text-slate-900">TaskFlow</span>
+            <span class="text-xl font-bold text-slate-900">TaskDo</span>
         </div>
     </div>
 
