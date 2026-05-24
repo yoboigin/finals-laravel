@@ -1,4 +1,4 @@
-# TaskFlow - Task Management System
+# TaskDo - Task Management System
 
 A Laravel final project for managing tasks with full CRUD operations (Create, Read, Update, Delete).
 
@@ -59,7 +59,7 @@ DB_DATABASE=database/database.sqlite
 
 ### Relationship Between Tasks and Categories Tables
 
-The TaskFlow application uses a **one-to-many relationship** between the `categories` and `tasks` tables:
+The TaskDo application uses a **one-to-many relationship** between the `categories` and `tasks` tables:
 
 - **Categories Table**: Stores category records (e.g., Work, Personal, Study) with a unique `name` constraint
 - **Tasks Table**: Stores individual task records with a `category_id` foreign key that references `categories.id`
