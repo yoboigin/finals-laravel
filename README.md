@@ -86,3 +86,4 @@ The TaskDo application uses a **one-to-many relationship** between the `categori
 - Tristan Bugarin
 - Nicollette Lasquite
 - Mikyla Lanorio
+- Katherine Igni 
